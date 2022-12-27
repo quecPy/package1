@@ -5,6 +5,7 @@ gpio_type =  mdls.screen_size_style[mdls.models][12]
 m_width = mdls.screen_size_style[mdls.models][3]
 m_height =  mdls.screen_size_style[mdls.models][4]
 m_screen_stypletyple = mdls.screen_size_style[mdls.models][6]
+
 class App(object):
     def __init__(self):
         self.managers = []
