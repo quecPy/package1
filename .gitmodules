@@ -1,0 +1,3 @@
+[submodule "component1"]
+	path = component1
+	url = https://github.com/quecPy/component1.git
